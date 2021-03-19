@@ -1,5 +1,10 @@
-print("Conguring")
-print("It")
-print("Us")
-print("Divergent")
-print("Annabelle")
+favFood = "Coffee Icecream"
+day = "today"
+print("Your favorite food is " + favFood + " " + day)
+adjective = "interesting"
+noun = "book"
+pluralnoun = "relatives"
+noun2 = "Literary"
+pluralnoun2 = "novels"
+adjective2 = "spicy"
+adjective3 = "old"
