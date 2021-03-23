@@ -1,13 +1,5 @@
-adjective = input("Name an adjective?")
-noun = input("Name a noun.")
-pluralNoun = input("Name a group of people you trust other than your friends.")
-nounTwo = input("Name a noun.")
-pluralNoun2 = input("Name a plural noun.")
-adjectiveTwo = input("Name an adjective.")
-adjectiveThree = input("Name an adjective.")
-adjectiveFour = input("What adjective best describes your feelings when your time is wasted on something not worth it?")
-verb = input("Name a verb.")
-pluralNoun3 = input("Name a plural noun.")
-print("There are many " + adjective + " ways to choose a " + noun + " to read. First, you could ask for recomendations from your friends and " + pluralNoun + ". If your friends and family are no help, try checking out the " + nounTwo + " Review in The New York Times. If the " + pluralNoun2 + " featured there are too " + adjectiveTwo + " for your taste, try something a little more your style. ")
-print("You could also choose a book the " + adjectiveThree + "-fashioned way by heading to your library or, you could save yourself a whole lot of " + adjectiveFour + " trouble and log into the online website, to " + verb + " for books!")
-print("With all the time you'll save not having to search for " + pluralNoun3 + ", you can read so many books!")
+def addTwoNumbers(x, y):
+    return x + y
+
+print(addTwoNumbers(77, 9))
+
